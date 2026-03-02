@@ -9,3 +9,10 @@
 * Laravel installer
 
 # Laravel 12 Installation :
+- php -v
+- composer -v
+- laravel -v
+- Laravel new marketplace
+- cd marketplace
+- php artisan migrate
+- composer run dev
